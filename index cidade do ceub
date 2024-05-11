@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="stylesheet" href="cidadeCeub.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header><h1 class="titulo"> Bem vindo a cidade CEUB!!</h1>
+    <img class="image1" src="imagens/townheader.svg" alt="">
+    </header>
+    <main>
+        <section class="imagem"><img src="imagens/townshop.svg" alt="" width="300px">
+        <div class="store-details">
+            <h2>
+                lojinha do ceub
+            </h2>
+            <ul>
+                <li>Cacau brasil</li>
+                <li>
+                    <a href="https://www.papelariaabc.com/">
+                        papelaria
+                    </a>
+                </li>
+            </ul>
+        </div>
+        </section>
+        <section class="imagem"> 
+            <img src="imagens/townfood.svg" alt="" width="300px">
+            <div class="store-details">
+                <h2>
+                    restaurantes do ceub
+                </h2>
+                <ul>
+                    <li>Grill</li>
+                    <li>kmart</li>
+                </ul>
+            </div></section>
+        <section class="imagem"> 
+            <img src="imagens/townsleep.svg" alt="" width="300px">
+            <div class="store-details">
+                <h2>
+                   blocos do ceub
+                </h2>
+                <ul>
+                    <ul>
+                        <li>bloco 1</li>
+                        <li>
+                            <a href="https://maps.app.goo.gl/gTdVFfMurhyDQKvX6">
+                                bloco 2
+                            </a> 
+                        </li>
+                        <li>bloco 3</li>
+                        <li>bloco 4</li>
+                        <li>bloco 5</li>
+                        <li>bloco 6</li>
+                        <li>bloco 7</li>
+                        <li>bloco 8</li>
+                        <li>bloco 9</li>
+                        <li>bloco 10</li>
+                        <li>bloco 11</li>
+                        <li>bloco 12</li>
+                      </ul>
+                      
+                    
+                </ul>
+            </div></section>
+    </main>
+    <footer class="rodape"><p>criado com amorrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr</p></footer>
+</body>
+</html>
